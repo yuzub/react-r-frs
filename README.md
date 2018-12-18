@@ -42,3 +42,39 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+
+## npm run build
+
+> r-frs@0.1.0 build E:\Udemy\zero-master\r-frs
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  34.46 KB  build\static\js\1.8fecdede.chunk.js
+  12.81 KB  build\static\css\1.62afef28.chunk.css
+  1.1 KB    build\static\js\main.5ecb0452.chunk.js
+  763 B     build\static\js\runtime~main.229c360f.js
+  425 B     build\static\css\main.01e9d58a.chunk.css
+
+The project was built assuming it is hosted at the server root.
+You can control this with the homepage field in your package.json.
+For example, add this to build it for GitHub Pages:
+
+  "homepage" : "http://myname.github.io/myapp",
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  http://bit.ly/CRA-deploy

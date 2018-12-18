@@ -1,4 +1,4 @@
-export const kittens = [
+export const users = [
 	{
 		"id": 1,
 		"name": "Nina",
@@ -95,7 +95,7 @@ export const kittens = [
 		"code": "NRI31",
 		"email": "auctor.odio.a@Namnullamagna.com"
 	},
-	{
+ 	{
 		"id": 17,
 		"name": "Cedric",
 		"code": "BPD49",
@@ -119,7 +119,7 @@ export const kittens = [
 		"code": "XZO67",
 		"email": "et.pede.Nunc@magnisdis.ca"
 	},
-	{
+/*	{
 		"id": 21,
 		"name": "Buffy",
 		"code": "YOL59",
@@ -598,5 +598,5 @@ export const kittens = [
 		"name": "Rajah",
 		"code": "COH47",
 		"email": "Morbi@ac.com"
-	}
+	} */
 ];
